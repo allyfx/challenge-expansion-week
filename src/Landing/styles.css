@@ -137,3 +137,7 @@ footer.landing-footer {
 .landing-footer a {
     color: rgba(255,255,255,0.87);
 }
+
+.landing-footer a:hover {
+    cursor: pointer;
+}

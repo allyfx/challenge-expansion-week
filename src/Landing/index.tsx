@@ -33,7 +33,7 @@ const Landing: React.FC = () => {
                     </section>
 
                     <Quote>
-                        “A criatividade é uma sublime da condição humana. É, entretanto,
+                        “A criatividade é uma sublime dimensão da condição humana. É, entretanto,
                         na capacidade criativa que existe a chave
                         da capacidade de evolução da humanidade.” - Sanchez
                     </Quote>
