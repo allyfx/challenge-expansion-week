@@ -4,7 +4,9 @@ import './styles.css';
 
 const Quote: React.FC = ({ children }) => {
     return(
-        <p>{children}</p>
+        <div className="blockquote">
+            <p>{children}</p>
+        </div>
     );
 }
 
