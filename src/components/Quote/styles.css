@@ -1,6 +1,8 @@
 .blockquote { 
     width: 636px;
     height: 124px;
+
+    padding: 10px;
     
     background: linear-gradient(0deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.12)), #121212;
     border-radius: 8px;
