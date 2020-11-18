@@ -3,7 +3,7 @@
 <h4 align="center">Deploy -> https://criatividade.netlify.app/</h4>
 
 <h1 align="center">
-    <img src="./.github/challenge-preview.gif" />
+    <img src="./challenge-preview.gif" />
 </h1>
 
 ## 💡O que é?
