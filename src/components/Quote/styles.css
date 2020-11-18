@@ -21,3 +21,10 @@ p {
     text-align: center;
     color: rgba(255, 255, 255, 60%);
 }
+
+/* Responsivity */
+@media (min-width: 576px) {
+    .blockquote {
+        width: 560px;
+    }
+}

@@ -149,11 +149,19 @@ footer.landing-footer {
     }
 
     .landing-content p.third-content {
-        width: 870px;
+        width: 470px;
     }
 
     .landing-content section.fourth-content {
         display: grid;
         grid-template-columns: 1fr;
+    }
+
+    .landing-content h2 {
+        width: 530px;
+    }
+
+    .landing-content h4 {
+        width: 620px;
     }
 }
