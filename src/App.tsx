@@ -1,9 +1,11 @@
 import React from 'react';
 
+import Landing from './Landing';
+
+import './global.css';
+
 function App() {
-  return (
-    <h1>Hello Expansion Week!</h1>
-  );
+  return <Landing />;
 }
 
 export default App;
