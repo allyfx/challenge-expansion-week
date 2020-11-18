@@ -165,3 +165,30 @@ footer.landing-footer {
         width: 620px;
     }
 }
+
+@media (min-width: 1200px) {
+    .landing-content img {
+        display: block;
+    }
+
+    .landing-content p.third-content {
+        width: 1036px;
+    }
+
+    .landing-content section.fourth-content {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .landing-content h2 {
+        width: 764px;
+    }
+
+    .landing-content h4 {
+        width: 764px;
+    }
+
+    .landing-content section {
+        gap: 80px;
+    }
+}
