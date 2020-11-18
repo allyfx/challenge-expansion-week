@@ -141,3 +141,19 @@ footer.landing-footer {
 .landing-footer a:hover {
     cursor: pointer;
 }
+
+/* Responsivity */
+@media (min-width: 576px) {
+    .landing-content img {
+        display: none;
+    }
+
+    .landing-content p.third-content {
+        width: 870px;
+    }
+
+    .landing-content section.fourth-content {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+}
