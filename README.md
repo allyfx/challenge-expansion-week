@@ -2,7 +2,7 @@
 <p align="center">Expansion Week challenge repository.</p>
 <h4 align="center">Deploy -> https://criatividade.netlify.app/</h4>
 <p align="center">
-    <a href="https://github.com/allyfx/challenge-expansion-week/tree/master/.github/README.md">ReadMe em Português</a>
+    <a href="https://github.com/allyfx/challenge-expansion-week/tree/master/.github/pt-BR-README.md">ReadMe em Português</a>
 </p>
 
 <h1 align="center">
